@@ -1,0 +1,59 @@
+
+
+
+                            Node & Express - Server /  Bankend Technology
+
+
+
+
+                                            Basic commads 
+-------------------------------------------------------------------------------
+
+
+                                1.create packge.json-npm init
+
+                                2.intall express - npm i express
+
+                                3.install JWT token - npm i jsonwebtoken
+
+                                            
+                                            
+                                            
+                                            Basics steps
+--------------------------------------------------------------------------------
+
+
+                                1. create packge.json
+
+                                2. install express
+
+                                3. create index.js file
+
+                                4.import express
+
+                                5.server appliccation create using express
+
+                                6.set up port number for server
+
+                                7.Client HTTP request resolving 
+
+                                    syntax: server-app.HTTP-request(path,callback)
+
+                                8.Response status code
+
+                                    1xx - Information
+                                    2xx - Success
+                                    3xx - Redirection 
+                                    4xx - Client side error
+                                    5xx - server side error
+
+                                9.JWT Token - user validation
+
+                                    9.1 Token generate - sign()
+                                    9.2 Token verify - verify() 
+
+                                10.middleware -
+
+                                    10.1 application specific
+                                    10.2 router specific
+                                    
